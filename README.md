@@ -78,6 +78,16 @@
 <img width="929" alt="hh" src="FatSecret-img/ss-9.png">
 
 
+👤 Rohan Ranjan
+
+ <ul>
+ <li>Github : rohanranjan25061996 
+ <li>Email : ranjanrohan96@gmail.com
+ </ul>
+
+ <h1></h1>
+
+
 <h1></h1>
 👤 Shalendra Singh
 
@@ -93,12 +103,3 @@
  </ul>
 
 <h1></h1>
-
-👤 Rohan Ranjan
-
- <ul>
- <li>Github : rohanranjan25061996 
- <li>Email : ranjanrohan96.com
- </ul>
-
- <h1></h1>
