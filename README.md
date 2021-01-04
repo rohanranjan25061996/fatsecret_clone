@@ -49,32 +49,27 @@
 </ul>
 <img width="929" alt="hh" src="FatSecret-img/ss-4.png">
 
-<ul>
-<li>Recepie Page, review recepies</li>
-</ul>
+### Recepie
 <img width="929" alt="hh" src="FatSecret-img/ss-5.png">
 
-
+### Recepie Ingredients
 <ul>
-<li>Recepies details page.
+<li> See the all the ingredients details.
 </ul>
 <img width="929" alt="hh" src="FatSecret-img/ss-6.png">
 
-
+### Upload Image
 <ul>
 <li>After cook upload pic..
 </ul>
 <img width="929" alt="hh" src="FatSecret-img/ss-7.png">
 
 
-<ul>
-<li>Community Page.
-</ul>
+### Community
 <img width="929" alt="hh" src="FatSecret-img/ss-8.png">
 
-<ul>
-<li>Community Member Page.
-</ul>
+
+### Community Member
 <img width="929" alt="hh" src="FatSecret-img/ss-9.png">
 
 
