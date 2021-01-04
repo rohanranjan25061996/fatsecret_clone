@@ -54,7 +54,7 @@
 
 ### Recepie Ingredients
 <ul>
-<li> See the all the ingredients details.
+<li> See the all the ingredients details and also write reviews..
 </ul>
 <img width="929" alt="hh" src="FatSecret-img/ss-6.png">
 
